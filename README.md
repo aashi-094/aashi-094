@@ -1,7 +1,7 @@
 # Amazon Sales Data Analysis
 
 Hello everyone,
-
+Aashi pandey here,
 I am excited to share with you my project on Amazon sales data analysis! As part of my internship with unified mentor, I had the opportunity to work on this project and gain valuable insights into analyzing sales data.
 
 In this project, I used Python to analyze Amazon sales data and created visualizations to better understand trends and patterns. I also used machine learning algorithms to make predictions about future sales.
